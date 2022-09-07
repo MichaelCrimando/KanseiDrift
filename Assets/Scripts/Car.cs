@@ -54,7 +54,6 @@ public class Car : MonoBehaviour
             StartCoroutine(PlayHapticsLeft(1f)); //Coroutine lets it go past 1 frame
             gamepad.SetLightBarColor(Color.cyan);
         } else {
-            Gamepad.current.ResetHaptics();
         }
         //Moe the player
         Vector3 currentPosition = transform.position;
