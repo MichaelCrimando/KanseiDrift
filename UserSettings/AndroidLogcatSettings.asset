@@ -3,57 +3,39 @@
     "m_SelectedPackage": {
         "deviceId": "RFCN5031LTT",
         "name": "com.ScamoftyIndustriesLLC.KanseiDrift",
-        "processId": 25635,
-        "exited": false
+        "processId": 31604,
+        "exited": true
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "RFCN5031LTT",
-            "name": "com.ScamoftyIndustriesLLC.KanseiDrift",
-            "processId": 29045,
-            "exited": true
-        },
-        {
-            "deviceId": "RFCN5031LTT",
-            "name": "com.ScamoftyIndustriesLLC.KanseiDrift",
-            "processId": 30216,
-            "exited": true
-        },
-        {
-            "deviceId": "RFCN5031LTT",
-            "name": "com.ScamoftyIndustriesLLC.KanseiDrift",
-            "processId": 9990,
-            "exited": true
-        },
-        {
-            "deviceId": "RFCN5031LTT",
-            "name": "com.ScamoftyIndustriesLLC.KanseiDrift",
-            "processId": 30496,
-            "exited": true
-        },
-        {
-            "deviceId": "RFCN5031LTT",
-            "name": "com.ScamoftyIndustriesLLC.KanseiDrift",
-            "processId": 7562,
-            "exited": true
-        },
-        {
-            "deviceId": "RFCN5031LTT",
             "name": "com.sec.android.app.launcher",
             "processId": 2894,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "RFCN5031LTT",
             "name": "com.ScamoftyIndustriesLLC.KanseiDrift",
             "processId": 21892,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "RFCN5031LTT",
             "name": "com.ScamoftyIndustriesLLC.KanseiDrift",
             "processId": 25635,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCN5031LTT",
+            "name": "com.ScamoftyIndustriesLLC.KanseiDrift",
+            "processId": 31604,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCN5031LTT",
+            "name": "com.google.android.deskclock",
+            "processId": 24486,
             "exited": false
         }
     ],
